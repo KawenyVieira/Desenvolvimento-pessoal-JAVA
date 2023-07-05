@@ -1,0 +1,16 @@
+Classes:
+  Definição de classe JAVA: Uma classe é um projeto para criar um objeto
+
+Variaveis:
+  "Para declarar a variável, devemos especificar o tipo de dados seguido do nome exclusivo da variável."
+  Declaração-->  int [numeros]= 0;
+                 String [palavras]= fulaninho;
+                 Char
+                 double
+                 Float
+                 byte
+                 short
+                 boolean
+
+Escopo/ Visibilidade/ Alocação das Variaveis JAVA
+    
