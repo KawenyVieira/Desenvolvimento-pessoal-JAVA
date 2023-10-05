@@ -5,7 +5,7 @@ Anotações, testes, dicas, resumos da minha evolução no JAVA.
     ```mermaid
      graph TD;
          JAVA-->Classes/Variaveis;
-         JAVA-->Condicionais/Loops;
+         JAVA-->ControleFluxo;
          JAVA-->ConceitoPOO;
          JAVA-->Interfaces;
          JAVA-->Est.Dados;
