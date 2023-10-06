@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06e4c6c8-e5f3-460b-974e-178ed7de06dd" name="Changes" comment="DESAFIOS BOOTCAMP SANTANDER">
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.idea/ContaBanco.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Desafios-Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desafios-Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desafios-Java/.idea/Desafios-Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desafios-Java/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desafios-Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desafios-Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desafios-Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/.idea/controleDeFluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/out/production/controleDeFluxo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/out/production/controleDeFluxo/.idea/controleDeFluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/out/production/controleDeFluxo/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/out/production/controleDeFluxo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/out/production/controleDeFluxo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controleDeFluxo/out/production/controleDeFluxo/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WMCh3hi1vsgfuonnwnUrmM1DtH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Kaweny/Desktop/workspace/Dio/Desenvolvimento-pessoal-JAVA"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06e4c6c8-e5f3-460b-974e-178ed7de06dd" name="Changes" comment="" />
+      <created>1696533182264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696533182264</updated>
+    </task>
+    <task id="LOCAL-00001" summary="DESAFIO DE CODIGO 1 BOOTCAMP SANTANDER">
+      <created>1696534795829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696534795829</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DESAFIOS BOOTCAMP SANTANDER">
+      <created>1696564055350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696564055350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DESAFIOS BOOTCAMP SANTANDER">
+      <created>1696564354339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696564354339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DESAFIOS BOOTCAMP SANTANDER">
+      <created>1696565059334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696565059334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DESAFIO DE CODIGO 1 BOOTCAMP SANTANDER" />
+    <MESSAGE value="DESAFIOS BOOTCAMP SANTANDER" />
+    <option name="LAST_COMMIT_MESSAGE" value="DESAFIOS BOOTCAMP SANTANDER" />
+  </component>
+</project>
