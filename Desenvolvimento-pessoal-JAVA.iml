@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ContaBanco" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios-Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/controleDeFluxo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesafioControleFluxo" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
