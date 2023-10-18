@@ -1,4 +1,4 @@
-package DesafioIphone;
+package DesafioIphoneDio;
 
 public class Iphone implements ReprodutorMusical, NavegadorInternet, AparelhoTelefonico {
 
